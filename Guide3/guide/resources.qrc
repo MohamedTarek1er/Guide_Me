@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../../Downloads/icons8-map-94.png</file>
+        <file>../../../../Downloads/OIG4_555.jpg</file>
+        <file>../../../../Downloads/th (3).jpg</file>
+        <file>../../../../Downloads/th (2).jpg</file>
+        <file>../../../../Downloads/th (1).jpg</file>
+        <file>../../../../Downloads/th.jpg</file>
+        <file>../../../../Downloads/tempp.jpg</file>
+    </qresource>
+</RCC>
